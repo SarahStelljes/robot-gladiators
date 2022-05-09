@@ -10,6 +10,7 @@ var enemyAttack = 12;
 
 var fight = function () {
     window.alert("Welcome to Robot Gladiators!");
+    // Do you wanna fight~? Do you wanna catch these
 
     //Player attack
     enemyHealth = enemyHealth - playerAttack;
